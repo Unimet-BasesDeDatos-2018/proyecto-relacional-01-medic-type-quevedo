@@ -1,3 +1,3 @@
 # MedicTypeQueronepi
 
-a [Sails](http://sailsjs.org) application
+[website](https://medictype.herokuapp.com/)
